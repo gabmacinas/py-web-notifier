@@ -1,0 +1,12 @@
+{  
+  "data": [
+    {
+      "name": "App 1",
+      "url": "https://testflight.apple.com/join/YOUR_APP_1_URL"
+    },
+    {
+      "name": "App 2",
+      "url": "https://testflight.apple.com/join/YOUR_APP_2_URL"
+    }
+  ]
+}
